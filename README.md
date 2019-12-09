@@ -1,4 +1,6 @@
-# fanfou-sdk-swift [![](https://img.shields.io/travis/LitoMore/fanfou-sdk-swift/master.svg)](https://travis-ci.org/LitoMore/fanfou-sdk-swift)
+# fanfou-sdk-swift
+
+[![](https://github.com/LitoMore/fanfou-sdk-swift/workflows/Swift/badge.svg)](https://github.com/LitoMore/fanfou-sdk-swift/actions)
 
 Fanfou SDK for Swift
 
